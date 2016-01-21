@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="Модул02\Модул02.csproj">
+﻿<Properties StartupItem="ReadFromCommandLine\ReadFromCommandLine.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Модул02\Program.cs">
     <Files>
